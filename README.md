@@ -27,3 +27,7 @@ Write: Only if you plan to upload or manage repos.
 5.Click "Generate token".
 Copy the Token
 Once created, copy the token and store it securely – you won't be able to see it again.
+
+# For SSL issues and fixes
+Go to hugging face website --> connection is secure --> check if certificate is valid --> details --> export
+Then paste it in your file and it'll work.
