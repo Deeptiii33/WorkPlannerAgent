@@ -31,3 +31,5 @@ Once created, copy the token and store it securely – you won't be able to see 
 # For SSL issues and fixes
 Go to hugging face website --> connection is secure --> check if certificate is valid --> details --> export
 Then paste it in your file and it'll work.
+
+Note: Token is hardcoded. Create a .env file and store tokens there.
